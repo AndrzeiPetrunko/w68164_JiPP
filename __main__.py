@@ -26,7 +26,7 @@ from kivy.uix.filechooser import FileChooserListView
 from kivy.uix.popup import Popup
 from kivy.uix.scrollview import ScrollView
 
-API_KEY = "OM2qRpVaCEmqomIDs2zx2hE4OXQvVdqYYvpCZx8dRcpWrTaspC"
+API_KEY = "ZeFjBtqTCSSR2gLHN2cTeW1G75Vq8G7DnWztMzIFP0ixgtcI8Q"
 PLANT_ID_URL = "https://api.plant.id/v2/identify"
 GROQ_API_KEY = "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"
 
